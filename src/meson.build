@@ -1,4 +1,7 @@
 source_files = files(
+    'objects/list.c',
+    'objects/map.c',
+
     'main.c',
     'print.c',
     'utils.c',

@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/target/aurgh",
+            "program": "${workspaceFolder}/target/src/cxml",
             "args": [ ],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
